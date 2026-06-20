@@ -22,19 +22,19 @@ The script was structured in 5 phases:
 
 # 3. Project Findings
 
-*The analysis of the merged bank marketing campaign and customer datasets shows that the campaign achieved an overall subscription conversion rate of 11.25%, with 4,811 successful subscriptions out of 42,752 customer. Although the campaign generated a substantial number of conversions, the majority of customers (88.75%) did not subscribe, indicating opportunities to improve.*
+The analysis of the merged bank marketing campaign and customer datasets shows that the campaign achieved an overall subscription conversion rate of 11.25%, with 4,811 successful subscriptions out of 42,752 customer. Although the campaign generated a substantial number of conversions, the majority of customers (88.75%) did not subscribe, indicating opportunities to improve.
 
-<u>*Customer Demographics*</u>
+![alt text](image.png)             ![alt text](image-1.png)
+
+**<u>*Customer Demographics*</u>**
 
 Demographic characteristics were among the strongest predictors of subscription success.
 Customers aged 30 years or younger and 51 years or older achieved higher conversion rates than the middle-aged segment (31–50 years).
 Students and retired customers recorded the highest subscription rates among occupational groups. Single customers were more likely to subscribe than married or divorced customers.
 Customers with higher levels of education, particularly university graduates, generally demonstrated stronger subscription performance
   - These findings suggest that customer life stage and educational attainment may influence responsiveness to marketing campaigns.
-
-   ![alt text](image.png)    ![alt text](image-1.png)
   
-<u>*Social and Economic Factors*</u>
+**<u>*Social and Economic Factors*</u>**
 
 Most social and economic indicators showed only limited influence on subscription outcomes.
 Income level, housing loans, personal loans, and household composition produced relatively similar conversion rates across categories.
@@ -43,7 +43,7 @@ Customers with no history of payment default achieved higher subscription rates 
 
 Overall, demographic characteristics appear to be more informative than socio-economic indicators for predicting campaign success.
 
-<u>**Marketing Campaign Factors**</u>
+**<u>**Marketing Campaign Factors**</u>**
 
 Marketing-related variables showed the strongest relationship with subscription outcomes.
 Customers contacted through the cellular channel achieved substantially higher conversion rates than those contacted by telephone.
