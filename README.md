@@ -43,7 +43,7 @@ Customers with no history of payment default achieved higher subscription rates 
 
 Overall, demographic characteristics appear to be more informative than socio-economic indicators for predicting campaign success.
 
-**<u>**Marketing Campaign Factors**</u>**
+**<u>*Marketing Campaign Factors*</u>**
 
 Marketing-related variables showed the strongest relationship with subscription outcomes.
 Customers contacted through the cellular channel achieved substantially higher conversion rates than those contacted by telephone.
