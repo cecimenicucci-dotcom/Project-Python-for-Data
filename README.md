@@ -5,6 +5,8 @@ This project aims to analyze two datasets related to a Portuguese bank marketing
 The main objective is to understand the factors associated with customers’ product subscription success. 
 The datasets contain information such as customer demographics, service seniority, customer behaviour, and marketing campaign interactions.These will be used to understand factors influencing customer subscription success. 
 
+The assessment methodology applied the knowledge and skills acquired throughout the Python and Python for Data courses.
+
 This script is structured in 4 phases:
 1. Load and data verification
    - Import the two datasets to perform initial checks. Ensure the data has been loaded correctly and is ready for analysis.
@@ -27,8 +29,8 @@ Demographic characteristics were among the strongest predictors of subscription 
  Customers with higher levels of education, particularly university graduates, generally demonstrated stronger subscription performance
    - These findings suggest that customer life stage and educational attainment may influence responsiveness to marketing campaigns.
 
-   ![alt text](image.png)
-   ![alt text](image-1.png)
+   ![alt text](image.png)    ![alt text](image-1.png)
+  
 
 **Social and Economic Factors**
 
