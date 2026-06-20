@@ -27,6 +27,9 @@ Demographic characteristics were among the strongest predictors of subscription 
  Customers with higher levels of education, particularly university graduates, generally demonstrated stronger subscription performance
    - These findings suggest that customer life stage and educational attainment may influence responsiveness to marketing campaigns.
 
+   ![alt text](image.png)
+   ![alt text](image-1.png)
+
 **Social and Economic Factors**
 
  Most social and economic indicators showed only limited influence on subscription outcomes.
