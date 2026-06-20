@@ -10,11 +10,11 @@ The datasets contain information such as customer demographics, service seniorit
 The assessment methodology applied the knowledge and skills acquired throughout the Python and Python for Data courses.
 The script was structured in 5 phases:
 1. Load and data verification
- - It was imported the two datasets to perform initial checks, and ensure the data has been loaded correctly.
+   - It was imported the two datasets to perform initial checks, and ensure the data has been loaded correctly.
 2. Data cleaning and transformation
- - The datasets were assesed and prepared to resolve data quality issues. As well as verification of consistency across variables, formats standardization, and application of necessary transformations to facilitate the analysis.
+   - The datasets were assesed and prepared to resolve data quality issues. As well as verification of consistency across variables, formats standardization, and application of necessary transformations to facilitate the analysis.
 3. Data merge
-  - The cleaned datasets were combined into a single dataframe, and saved as a new dataset, "campaign_final".
+   - The cleaned datasets were combined into a single dataframe, and saved as a new dataset, "campaign_final".
 4. Data description and findings
    - Data were explored and assessed to identify the factors related to customer subscription success.
 5. Final conclusions
